@@ -1,10 +1,10 @@
 # Data Jobs Dashboard w/ Power BI
 
-<a href="https://lukeb.co/powerbi-project1" target="_blank">
+<a href="https://app.powerbi.com/reportEmbed?reportId=8d3631f1-2b0b-4a23-b7ad-4b4dad4f4db8&autoAuth=true&ctid=f419c9fe-f7b0-4d87-bee8-e8dfb2190cab" target="_blank">
   <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
 </a>
 
-> <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
+> <a href="https://app.powerbi.com/reportEmbed?reportId=8d3631f1-2b0b-4a23-b7ad-4b4dad4f4db8&autoAuth=true&ctid=f419c9fe-f7b0-4d87-bee8-e8dfb2190cab" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
 
 
 ## Introduction
